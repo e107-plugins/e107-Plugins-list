@@ -4,6 +4,7 @@
 ## Free plugins with forum support only 
 
 * [Userjournals plugin](https://github.com/e107-plugins/userjournals) - version 2.2.0 alpha, for e107 2.3.1, PHP 7.2  
+* [JM Admin plugin](https://github.com/e107-plugins/jmadmin) - for personal use only
 
 
 ### Userjournals plugin
