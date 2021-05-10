@@ -27,3 +27,8 @@ This plugin is attempt how to replace missing functionality with Welcome message
 
 Some free theme still uses this, so if any problems, use forum or this repo for reporting issues.
 
+* [JM Player plugin](https://github.com/e107-plugins/jm_jplayer) - for e107 2.3.1, PHP 7.4  
+
+###  JM Player plugin
+
+e107 version of WordPress plugin that is not available anymore. It creates playlists (albums). Tested mainly with mp3 files. Still actively used. 
