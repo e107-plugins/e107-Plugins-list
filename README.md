@@ -20,3 +20,9 @@ Credit: e107 team, Del Rudolph, bugrain - see original readme.txt
 
 Note: This plugin is used for replacing of Journal Nuke module, so it is used. But it was only fixed, not fully updated for new e107 standards. 
 
+###  MastHead plugin
+
+This plugin is attempt how to replace missing functionality with Welcome message. The idea was used in core Hero plugin. Pro alternative is JM Elements plugin.
+
+Some free theme still uses this, so if any problems, use forum or this repo for reporting issues.
+
