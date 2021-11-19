@@ -8,7 +8,7 @@
 
 ## Free plugins in development mode 
 
-* [Web Links plugin] (https://github.com/Jimako-e107-plugins/web_links) - private repo
+* [Web Links plugin](https://github.com/Jimako-e107-plugins/web_links) - private repo
 
 
 ## Web Links plugin
