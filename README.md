@@ -6,6 +6,14 @@
 * [Userjournals plugin](https://github.com/e107-plugins/userjournals) - version 2.2.0 alpha, for e107 2.3.1, PHP 7.2  
 * [JM Admin plugin](https://github.com/e107-plugins/jmadmin) - for personal use only
 
+## Free plugins in development mode 
+
+* [Web Links plugin] (https://github.com/Jimako-e107-plugins/web_links) - private repo
+
+
+## Web Links plugin
+
+- UnNuke version Web_Links module for e107
 
 ### Userjournals plugin
 
