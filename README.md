@@ -19,6 +19,7 @@
 * [Forum plugin](https://github.com/Jimako-e107-plugins/forum)
 * [Forum Extended plugin](https://github.com/Jimako-e107-plugins/forum_extended)
 * [JM Player plugin](https://github.com/Jimako-e107-plugins/jm_jplayer)
+* [GithubSync](https://github.com/Jimako-e107-plugins/githubSync)
 
 
 ## Forum plugin
@@ -63,5 +64,8 @@ fixed version of old plugin for e107 2.2
 
 fixed version of old plugin for e107 2.2
 
+### GithubSync Plugin
+- inspired with core sync functionality
+- it downloads zip file from github repo and unpacks it. Core and single plugins are supported
 
 
