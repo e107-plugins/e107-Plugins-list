@@ -68,4 +68,9 @@ fixed version of old plugin for e107 2.2
 - inspired with core sync functionality
 - it downloads zip file from github repo and unpacks it. Core and single plugins are supported
 
+### Userlanguage menu 
+version for 2.4
+- https://github.com/tgtje/userlanguage_flags_menu
+
+
 
