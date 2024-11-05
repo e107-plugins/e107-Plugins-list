@@ -74,6 +74,6 @@ version for 2.4
 
 ## Other available e107 plugins
 * [RDFaCE-for-e107](https://github.com/OTroccaz/RDFaCE-for-e107)  by  [OTroccaz](https://github.com/OTroccaz)
-* 
+* [estate](https://github.com/Vodhin/estate)  by  Vodhin 
 
 
