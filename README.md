@@ -72,5 +72,8 @@ fixed version of old plugin for e107 2.2
 version for 2.4
 - https://github.com/tgtje/userlanguage_flags_menu
 
+## Other available e107 plugins
+* [RDFaCE-for-e107](https://github.com/OTroccaz/RDFaCE-for-e107)  by  [OTroccaz](https://github.com/OTroccaz)
+* 
 
 
